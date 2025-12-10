@@ -1,6 +1,5 @@
 # Maryem Tadmouti - Full Stack Developer Portfolio
 
-![Portfolio Preview](assets/images/profile.jpg)
 
 ## 👋 About Me
 I'm **Maryem Tadmouti**, a passionate Full Stack Developer based in Morocco. Currently in my second year of studies and seeking a training internship starting **February 2026**. With expertise in React.js, PHP, and JavaScript, I'm focused on building practical solutions that make a difference.
