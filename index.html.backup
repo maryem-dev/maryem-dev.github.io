@@ -197,81 +197,71 @@
         </div>
     </section>
 
-<!-- Projects Section -->
-<section id="projects" class="projects">
-    <div class="container">
-        <div class="section-header">
-            <h2 class="section-title">Project Roadmap</h2>
-            <p class="section-subtitle">Completed work and planned development</p>
-        </div>
-
-        <!-- Note about project strategy -->
-        <div class="project-strategy-note">
-            <p><strong>Note:</strong> I'm currently researching target companies to build projects that match their specific technology needs. Below are examples of the types of projects I'm developing.</p>
-        </div>
-
-        <div class="projects-grid">
-            <!-- Portfolio Website - COMPLETED -->
-            <div class="project-card">
-                <div class="project-header">
-                    <div class="project-badge completed">✅ Live & Completed</div>
-                    <h3>Portfolio Website</h3>
-                </div>
-                <p class="project-description">Professional portfolio built with HTML5, CSS3, and JavaScript. Fully responsive with modern design.</p>
-                <div class="project-tech">
-                    <span class="tech-tag">HTML5</span>
-                    <span class="tech-tag">CSS3</span>
-                    <span class="tech-tag">JavaScript</span>
-                    <span class="tech-tag">Git</span>
-                    <span class="tech-tag">GitHub Pages</span>
-                </div>
-                <div class="project-links">
-                    <a href="https://maryem-dev.github.io" class="project-link" target="_blank" rel="noopener noreferrer">🌐 Live Demo</a>
-                    <a href="https://github.com/maryem-dev/maryem-dev.github.io" class="project-link" target="_blank" rel="noopener noreferrer">💻 Source Code</a>
-                </div>
+    <!-- Projects Section -->
+    <section id="projects" class="projects">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Featured Projects</h2>
+                <p class="section-subtitle">Showcasing my technical capabilities</p>
             </div>
 
-            <!-- Task Manager - PLANNED -->
-            <div class="project-card">
-                <div class="project-header">
-                    <div class="project-badge planned">📅 Planned Project</div>
-                    <h3>Task Manager Application</h3>
+            <div class="projects-grid">
+                <div class="project-card">
+                    <div class="project-header">
+                        <div class="project-badge active">In Progress</div>
+                        <h3>Portfolio Website</h3>
+                    </div>
+                    <p class="project-description">Modern responsive portfolio built with HTML5, CSS3, and vanilla JavaScript. Features smooth animations and clean design.</p>
+                    <div class="project-tech">
+                        <span class="tech-tag">HTML5</span>
+                        <span class="tech-tag">CSS3</span>
+                        <span class="tech-tag">JavaScript</span>
+                        <span class="tech-tag">Git</span>
+                    </div>
+                    <div class="project-links">
+                        <a href="#" class="project-link disabled">Live Demo</a>
+                        <a href="#" class="project-link">Source Code</a>
+                    </div>
                 </div>
-                <p class="project-description"><em>Example of project type I'm developing</em></p>
-                <p class="project-description">React.js application with drag-and-drop functionality and task categorization.</p>
-                <div class="project-tech">
-                    <span class="tech-tag">React.js</span>
-                    <span class="tech-tag">JavaScript</span>
-                    <span class="tech-tag">CSS3</span>
-                    <span class="tech-tag">Local Storage</span>
-                </div>
-                <div class="project-links">
-                    <span class="project-link disabled">🔜 Coming Soon</span>
-                </div>
-            </div>
 
-            <!-- Weather Dashboard - PLANNED -->
-            <div class="project-card">
-                <div class="project-header">
-                    <div class="project-badge planned">📅 Planned Project</div>
-                    <h3>Weather Dashboard</h3>
+                <div class="project-card">
+                    <div class="project-header">
+                        <div class="project-badge upcoming">Coming Soon</div>
+                        <h3>Task Manager App</h3>
+                    </div>
+                    <p class="project-description">React.js application with local storage, drag-and-drop functionality, and task categorization features.</p>
+                    <div class="project-tech">
+                        <span class="tech-tag">React.js</span>
+                        <span class="tech-tag">JavaScript</span>
+                        <span class="tech-tag">CSS3</span>
+                        <span class="tech-tag">Local Storage</span>
+                    </div>
+                    <div class="project-links">
+                        <a href="#" class="project-link disabled">Coming Soon</a>
+                    </div>
                 </div>
-                <p class="project-description"><em>Example of project type I'm developing</em></p>
-                <p class="project-description">Real-time weather application using external APIs with responsive design.</p>
-                <div class="project-tech">
-                    <span class="tech-tag">JavaScript</span>
-                    <span class="tech-tag">API Integration</span>
-                    <span class="tech-tag">Bootstrap</span>
-                    <span class="tech-tag">Async/Await</span>
-                </div>
-                <div class="project-links">
-                    <span class="project-link disabled">🔜 Coming Soon</span>
+
+                <div class="project-card">
+                    <div class="project-header">
+                        <div class="project-badge upcoming">Coming Soon</div>
+                        <h3>Weather Dashboard</h3>
+                    </div>
+                    <p class="project-description">Real-time weather application using external API with city search, forecasts, and responsive design.</p>
+                    <div class="project-tech">
+                        <span class="tech-tag">JavaScript</span>
+                        <span class="tech-tag">API Integration</span>
+                        <span class="tech-tag">Bootstrap</span>
+                        <span class="tech-tag">Async/Await</span>
+                    </div>
+                    <div class="project-links">
+                        <a href="#" class="project-link disabled">Coming Soon</a>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
-</section>
-<!-- Contact Section -->
+    </section>
+
+    <!-- Contact Section -->
     <section id="contact" class="contact">
         <div class="container">
             <div class="section-header">

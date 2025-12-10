@@ -698,6 +698,15 @@ section {
     font-weight: 500;
 }
 
+/* Profile Photo Styles */
+.profile-photo {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    object-fit: cover;
+    border: 3px solid rgba(255, 255, 255, 0.3);
+}
+
 /* ===== RESPONSIVE DESIGN ===== */
 @media (max-width: 1024px) {
     .hero-grid {
@@ -769,4 +778,37 @@ section {
     .about-grid {
         grid-template-columns: 1fr;
     }
+}
+/* Add to CSS file after existing project styles */
+
+.project-badge.completed {
+    background: #d1fae5;
+    color: #065f46;
+}
+
+.project-badge.planned {
+    background: #e0e7ff;
+    color: #3730a3;
+}
+
+.project-strategy-note {
+    background: #f8fafc;
+    padding: 1.5rem;
+    border-radius: 10px;
+    border-left: 4px solid var(--primary);
+    margin-bottom: 2.5rem;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.project-strategy-note p {
+    color: var(--dark-light);
+    margin: 0;
+    font-size: 0.95rem;
+    line-height: 1.6;
+}
+
+.project-strategy-note strong {
+    color: var(--primary);
 }
