@@ -36,14 +36,9 @@ I'm taking a targeted approach to project development:
 ## 📫 Contact Information
 - **Email**: maryem.tadmouti@gmail.com
 - **GitHub**: [github.com/maryem-dev](https://github.com/maryem-dev)
+- **LinkedIn**: [linkedin.com/in/maryem-tadmouti](https://linkedin.com/in/maryem-tadmouti)
+- **Portfolio**: [maryem-dev.github.io](https://maryem-dev.github.io)
 - **Location**: Morocco
-- **Status**: Actively seeking February 2026 training opportunities
-
-## 🎓 Education & Background
-- Second Year Full Stack Web Development Student
-- Technical Training Experience
-- Strong foundation in modern web technologies
-- Quick learner with problem-solving mindset
 
 ---
 
