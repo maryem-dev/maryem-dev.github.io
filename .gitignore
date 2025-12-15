@@ -27,3 +27,4 @@ build/
 .DS_Store
 *.backup
 backup/
+assets/images/profile.jpg
