@@ -1,0 +1,58 @@
+/* ===== CARD COMPONENTS ===== */
+.about-card {
+    background: var(--white);
+    padding: 2.5rem 2rem;
+    border-radius: var(--radius-xl);
+    box-shadow: var(--shadow-md);
+    transition: transform var(--transition-normal);
+    text-align: center;
+}
+
+.about-card:hover {
+    transform: translateY(-10px);
+    box-shadow: var(--shadow-lg);
+}
+
+.card-icon {
+    width: 60px;
+    height: 60px;
+    background: var(--gradient-primary);
+    border-radius: var(--radius-lg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 1.5rem;
+    color: white;
+    font-size: 1.5rem;
+}
+
+/* Project Cards */
+.project-card {
+    background: var(--white);
+    padding: 2rem;
+    border-radius: var(--radius-xl);
+    box-shadow: var(--shadow-md);
+    border: 1px solid var(--light-gray);
+    transition: transform var(--transition-normal);
+}
+
+.project-card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow-lg);
+}
+
+/* Contact Cards */
+.contact-note-card {
+    background: var(--gradient-card);
+    padding: 2.5rem;
+    border-radius: var(--radius-xl);
+    border: 1px solid var(--light-gray);
+}
+
+/* Skill Category Cards */
+.skill-category {
+    background: var(--gradient-card);
+    padding: 2rem;
+    border-radius: var(--radius-xl);
+    border: 1px solid var(--light-gray);
+}
